@@ -1,30 +1,6 @@
-
-<a href="https://github.com/charly3pins">
-	<img align="center" width="49%" src="./header.svg" />
-</a>
-<br/>
-<a href="https://github.com/charly3pins">
-	<img align="center" width="49%" src="./repositories.svg" />
-</a>
-<a href="https://github.com/charly3pins">
-	<img align="center" width="49%" src="./acti_comm.svg" />
-</a>
-<a href="https://github.com/charly3pins">
-	<img align="center" width="49%" src="./iso_calender.svg" />
-</a>
-<a href="https://github.com/charly3pins">
-	<img align="center" width="49%" src="./issue_pr_lang.svg" />
-</a>
-<a href="https://github.com/charly3pins">
-	<img align="center" width="49%" src="./github-habits.svg" />
-</a>
-<a href="https://github.com/charly3pins">
-	<img align="center" width="49%" src="./achievements.svg" />
-</a>
-
 ## 👋 Keep in touch
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bogdan-andrei-faur-147316172/))
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bogdan-andrei-faur-147316172/)
 
 ## 👨‍💻 Blog
 
