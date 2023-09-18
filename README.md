@@ -8,5 +8,3 @@ Latest projects:
 - **[Caravana-Social](https://github.com/CaravanaSocial/CaravanaSocial)**
 - **[ PI-Videogames-main](https://github.com/Bogdan-Andrei-Faur/PI-Videogames-main)**
 - **[Rick-and-Morty](https://github.com/Bogdan-Andrei-Faur/Rick-and-Morty)**
-
-![](https://media.giphy.com/media/OPYnG3Xf8zLag/giphy.gif)
