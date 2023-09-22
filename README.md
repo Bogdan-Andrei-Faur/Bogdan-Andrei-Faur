@@ -5,6 +5,6 @@
 ## 👨‍💻 Projects
 
 Latest projects:
-- **[Caravana-Social](https://github.com/CaravanaSocial/CaravanaSocial)**
+- **[Caravana-Social](https://caravana.onrender.com/)**
 - **[ PI-Videogames-main](https://github.com/Bogdan-Andrei-Faur/PI-Videogames-main)**
 - **[Rick-and-Morty](https://github.com/Bogdan-Andrei-Faur/Rick-and-Morty)**
