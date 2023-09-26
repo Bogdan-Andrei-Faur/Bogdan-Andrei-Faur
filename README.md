@@ -1,13 +1,13 @@
 Hi my name is Bogdan Andrei Faur
 =================================================================================================================================================
 
-Full-stack | Front-end Developer
+##Full-stack | Front-end Developer
 ----------------------------------
 
 * 🌍  I'm based in Spain
 * ✉️  You can contact me at [bogdan.andrei.faur@gmail.com](mailto:bogdan.andrei.faur@gmail.com)
 
-### Skills
+## Skills
 
 
 <p align="left">
