@@ -26,7 +26,7 @@ Latest projects:
 - **[Rick-and-Morty](https://github.com/Bogdan-Andrei-Faur/Rick-and-Morty)**
 
 
-### Badges
+## Badges
 
 <b>My GitHub Stats</b>
 
