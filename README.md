@@ -1,7 +1,7 @@
 Hi my name is Bogdan Andrei Faur
 =================================================================================================================================================
 
-##Full-stack | Front-end Developer
+Full-stack | Front-end Developer
 ----------------------------------
 
 * 🌍  I'm based in Spain
