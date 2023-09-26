@@ -7,6 +7,14 @@ Full-stack | Front-end Developer
 * 🌍  I'm based in Spain
 * ✉️  You can contact me at [bogdan.andrei.faur@gmail.com](mailto:bogdan.andrei.faur@gmail.com)
 
+## 👨‍💼 About me
+
+<p>I studied computer science, telecommunications, and electricity. I worked in logistics and transportation for 3 years. Finally, I joined Henry to change my life.
+
+I am a detail-oriented, organized person with a strong desire to learn new things that I am passionate about.
+
+I lean heavily towards front-end development because I love the visual aspect of a website and the way it can be designed for the user's experience.</p>
+
 ## Skills
 
 
