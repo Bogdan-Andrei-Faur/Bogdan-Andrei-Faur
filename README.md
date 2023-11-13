@@ -30,7 +30,7 @@ I lean heavily towards front-end development because I love the visual aspect of
 
 Latest projects:
 - **[Caravana-Social](https://caravana.onrender.com/)**
-- **[ PI-Videogames-main](https://github.com/Bogdan-Andrei-Faur/PI-Videogames-main)**
+- **[ PI-Videogames-main](https://gamelibraryhub.onrender.com/)**
 - **[Rick-and-Morty](https://github.com/Bogdan-Andrei-Faur/Rick-and-Morty)**
 
 
