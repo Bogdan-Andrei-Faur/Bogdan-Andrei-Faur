@@ -9,11 +9,20 @@ Full-stack | Front-end Developer
 
 ## 👨‍💼 About me
 
-<p>I studied computer science, telecommunications, and electricity. I worked in logistics and transportation for 3 years. Finally, I joined Henry to change my life.
+<p>Full-stack web developer with over two years of active programming experience and over one year of professional experience leading projects and technical teams. I currently lead the IT department at the Spanish headquarters of an international consulting firm, where I have designed and developed our main digital solutions from scratch, in addition to coordinating a small development team.
 
-I am a detail-oriented, organized person with a strong desire to learn new things that I am passionate about.
+My approach combines hands-on development (React, Node.js, PostgreSQL, Astro, CI/CD, etc.) with technical project management, internal IT support, and regulatory compliance for digital tools. I am passionate about learning, teaching, and solving real-world problems with technology.
 
-I lean heavily towards front-end development because I love the visual aspect of a website and the way it can be designed for the user's experience.</p>
+🔧 Main technologies:
+React · Node.js · Express · PostgreSQL · Prisma · Astro · Redux · i18n · Chart.js · Puppeteer · Cloudinary · OpenAI API · CI/CD · Git
+
+🎯 Professional interests:
+- Developing digital products from scratch
+- Continuous improvement of technical processes
+- Technical leadership of small teams
+- Autonomous and multidisciplinary learning
+
+Always evolving, combining code, leadership, and product vision.</p>
 
 ## Skills
 
