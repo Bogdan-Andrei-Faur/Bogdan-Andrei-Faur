@@ -1,60 +1,108 @@
-Hi my name is Bogdan Andrei Faur
-=================================================================================================================================================
+# Hi there, I'm Bogdan Andrei Faur 👋
 
-Full-stack | Front-end Developer
-----------------------------------
+<div align="center">
+  
+### Full Stack Developer | Tech Lead
 
-* 🌍  I'm based in Spain
-* ✉️  You can contact me at [bogdan.andrei.faur@gmail.com](mailto:bogdan.andrei.faur@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://andreifaur.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bogdan-andrei-faur/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bogdan.andrei.faur@gmail.com)
 
-## 👨‍💼 About me
+📍 Huesca, Aragón, Spain
 
-<p>Full-stack web developer with over two years of active programming experience and over one year of professional experience leading projects and technical teams. I currently lead the IT department at the Spanish headquarters of an international consulting firm, where I have designed and developed our main digital solutions from scratch, in addition to coordinating a small development team.
+</div>
 
-My approach combines hands-on development (React, Node.js, PostgreSQL, Astro, CI/CD, etc.) with technical project management, internal IT support, and regulatory compliance for digital tools. I am passionate about learning, teaching, and solving real-world problems with technology.
+---
 
-🔧 Main technologies:
-React · Node.js · Express · PostgreSQL · Prisma · Astro · Redux · i18n · Chart.js · Puppeteer · Cloudinary · OpenAI API · CI/CD · Git
+## 💼 About Me
 
-🎯 Professional interests:
-- Developing digital products from scratch
-- Continuous improvement of technical processes
-- Technical leadership of small teams
-- Autonomous and multidisciplinary learning
+I'm a **Full Stack Developer** with over **3 years** of intensive programming experience and **1.5+ years** of professional experience leading projects and technical teams. Currently serving as **Tech Lead (Team Lead)** and **IT Department Head** at **Petendure Compliance** (Spanish headquarters), an international consulting firm.
 
-Always evolving, combining code, leadership, and product vision.</p>
+### 🚀 What I Do
 
-## Skills
+- 💻 **Full-stack development** using modern technologies and best practices
+- 👥 **Lead and coordinate** development teams on complex projects
+- 🏗️ **Design and build** complete digital solutions from scratch
+- 📊 **Manage technical projects** combining hands-on coding with strategic planning
+- 🔧 **DevOps & Infrastructure** including CI/CD, deployment, and system maintenance
+- 🎓 **Mentor developers** and foster collaborative learning environments
 
+### 🎯 My Approach
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://astro.build/" target="_blank" rel="noreferrer"><img src="https://astro.build/assets/press/astro-icon-light-gradient.svg" width="36" height="36" alt="Astro" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-</p>
+I combine **autonomous full-stack development** with **technical leadership**, focusing on:
 
-## 👋 Keep in touch
+- ✅ Developing digital products from the ground up
+- ✅ Continuous improvement of technical processes
+- ✅ Building scalable and maintainable architectures
+- ✅ Real-world problem-solving with technology
+- ✅ Knowledge sharing and team growth
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bogdan-andrei-faur/)
+**Always evolving** — merging code, leadership, and product vision.
 
-## 👨‍💻 Projects
+---
 
-Latest projects:
-- **[Porfolio](https://bogdan-andrei-faur.onrender.com/)**
-- **[Caravana-Social](https://caravanasocial.org/)**
-- **[ PI-Videogames-main](https://gamelibraryhub.onrender.com/)**
-- **[Rick-and-Morty](https://github.com/Bogdan-Andrei-Faur/Rick-and-Morty)**
+## 🛠️ Tech Stack
 
+### Frontend
 
-## 📊 My GitHub Stats
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<a href="https://github.com/Bogdan-Andrei-Faur" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bogdan-Andrei-Faur&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Bcrypt](https://img.shields.io/badge/Bcrypt-3A3A3A?style=for-the-badge)
+
+### DevOps & Tools
+
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
+
+### Other Technologies
+
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
+![i18n](https://img.shields.io/badge/i18n-26A69A?style=for-the-badge)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bogdan-Andrei-Faur&theme=dark&hide_border=true&background=1c1917&stroke=0891b2&ring=0891b2&fire=0891b2&currStreakLabel=0891b2)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Let's Connect!
+
+I'm always open to discussing new projects, creative ideas, or opportunities to collaborate.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bogdan-andrei-faur/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bogdan.andrei.faur@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://bogdan-andrei-faur.onrender.com/)
+
+⭐️ From [Bogdan-Andrei-Faur](https://github.com/Bogdan-Andrei-Faur)
+
+</div>
