@@ -83,16 +83,6 @@ I combine **autonomous full-stack development** with **technical leadership**, f
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bogdan-Andrei-Faur&theme=dark&hide_border=true&background=1c1917&stroke=0891b2&ring=0891b2&fire=0891b2&currStreakLabel=0891b2)
-
-</div>
-
----
-
 <div align="center">
 
 ### 💬 Let's Connect!
